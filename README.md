@@ -1,6 +1,6 @@
 # 🏥 Medical Insurance Statistical Dashboard
 
-**Live Application:** (https://202618005-ds602-statistical-methods-kb.streamlit.app/)
+**Live Application:** https://202618005-ds602-statistical-methods-kb.streamlit.app/     
 **Author:** Khushal Vishal Bafna | Roll No: 202618005  
 **Academic Context:** M.Sc. Data Science (Semester 1), Dhirubhai Ambani University
 
